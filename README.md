@@ -55,7 +55,7 @@ Healthcare professionals often need to estimate patient prognosis based on multi
 #### Categorical Data
 - OneHotEncoder
 
-### Model
+### Model algorithm
 - Linear Regression
 
 ### Validation
